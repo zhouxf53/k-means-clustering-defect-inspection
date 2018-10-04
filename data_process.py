@@ -64,14 +64,4 @@ plt.show()
 
 
 
-##[w1, w2, z] = T_data.shape
-##x_data =  np.linspace(1, w1, w1)
-##c, _ = P.polyfit(x_data,T_data[:,:,10],9,full=True)
-##haha = P.polyval(x_data, c, True)
-##haha = np.transpose(haha)
-##f = plt.figure()
-##f.add_subplot(1,2, 1)
-##plt.imshow(T_data[:,:,10])
-##f.add_subplot(1,2, 2)
-##plt.imshow(haha)
-##plt.show()
+
