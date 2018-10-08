@@ -1,5 +1,4 @@
-# k-means-clustering-defect-inspection
-
+# Thermography image segmentation algorithm with de-trend filter and clustering 
 ## Original paper: 
 (1) https://www.sciencedirect.com/science/article/pii/S0963869515000961 
 
