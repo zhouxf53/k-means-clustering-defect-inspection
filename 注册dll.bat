@@ -1,0 +1,1 @@
+regsvr32 WinTES2FileIO.dll
