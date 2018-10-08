@@ -34,3 +34,6 @@ Dr. Hongjin Wang and Bo Peng contributed a lot to the submitted algorithm
 ### Citation
 If this method is useful for your research, please cite our paper.
 
+### To-do
+Cluster number justification, python code revision, matlab code comment adding
+
